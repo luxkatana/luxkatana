@@ -12,23 +12,23 @@
 
 <td>
 <h4> Python</h4>
-<img src="images/python.gif">
+<img src="images/python.png" width='1000'> 
 
 </td>
 <td>
 <h4> C lang </h4>
-<img src="images/C.png">
+<img src="images/C.png" width='1000'>
 </td>
 
 
 <td>
 <h4>lua</h4>
-<img src="images/lua.svg">
+<img src="images/lua.svg" width='1000'>
 </td>
 
 <td>
 <h4>Rust</h4>
-<img src="images/rust.png">
+<img src="images/rust.png" width='1000'
 </td>
 
 
@@ -47,7 +47,7 @@
 <h4>
 <a href="https://neovim.io/">Neovim</a>
 </h4>
-<img src="images/neovim.png">
+<img src="images/neovim.png" width='1000'>
 
 </td>
 <td>
@@ -56,19 +56,19 @@
 Visual Studio Code
 </a>
 </h4>
-<img src="images/vscode.png">
+<img src="images/vscode.png" width='1000'>
 </td>
 <td>
 <h4>
 <a href="https://www.jetbrains.com/pycharm/">PyCharm</a>
 </h4>
-<img src="images/pycharm.png">
+<img src="images/pycharm.png" width='1000'>
 </td>
 <td>
 <h4>
 <a href="https://www.jetbrains.com/rust/">RustRover</a>
 </h4>
-<img src="images/rustrover.png">
+<img src="images/rustrover.png" width='1000'
 </td>
 </tr>
 </table>
