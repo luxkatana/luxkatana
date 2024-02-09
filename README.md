@@ -73,4 +73,4 @@ Visual Studio Code
 </tr>
 </table>
 
-<a href="https://portfolioluxkatana.mlserv.xyz/">Even more smaller about me</a>
+<a href="https://luxkatana.me">Even more smaller about me</a>
