@@ -73,4 +73,3 @@ Visual Studio Code
 </tr>
 </table>
 
-<a href="https://luxkatana.me">Even more smaller about me</a>
