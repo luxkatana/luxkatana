@@ -1,8 +1,6 @@
 ### Hi there 👋
-> 15 year old
-
-> Dutch :netherlands:
-
+> 16 years old
+> Dutch student :netherlands:
 
 
 ### Programming languages that I am capable of
