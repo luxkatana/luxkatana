@@ -56,18 +56,6 @@ Visual Studio Code
 </h4>
 <img src="images/vscode.png" width='1000'>
 </td>
-<td>
-<h4>
-<a href="https://www.jetbrains.com/pycharm/">PyCharm</a>
-</h4>
-<img src="images/pycharm.png" width='1000'>
-</td>
-<td>
-<h4>
-<a href="https://www.jetbrains.com/rust/">RustRover</a>
-</h4>
-<img src="images/rustrover.png" width='1000'
-</td>
 </tr>
 </table>
 
